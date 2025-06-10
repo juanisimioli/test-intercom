@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/intercom-test-app/static/css/main.d93b93a6.css",
-    "main.js": "/intercom-test-app/static/js/main.48e361ce.js",
-    "index.html": "/intercom-test-app/index.html",
-    "main.d93b93a6.css.map": "/intercom-test-app/static/css/main.d93b93a6.css.map",
-    "main.48e361ce.js.map": "/intercom-test-app/static/js/main.48e361ce.js.map"
+    "main.css": "/test-intercom/static/css/main.d93b93a6.css",
+    "main.js": "/test-intercom/static/js/main.48e361ce.js",
+    "index.html": "/test-intercom/index.html",
+    "main.d93b93a6.css.map": "/test-intercom/static/css/main.d93b93a6.css.map",
+    "main.48e361ce.js.map": "/test-intercom/static/js/main.48e361ce.js.map"
   },
   "entrypoints": [
     "static/css/main.d93b93a6.css",
